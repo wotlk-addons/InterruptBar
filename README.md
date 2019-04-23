@@ -1,7 +1,7 @@
 Improved WoTLK Interrupt Bar
 ================================
 
-By Vendethiel. Original by Kollektiv.
+By Vendethiel :tm: . Original by Kollektiv.
 
 ### Instructions
 
